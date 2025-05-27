@@ -1,5 +1,5 @@
 ﻿Pos,No,Driver,Car,Laps,Time/retired,Pts,Race
-1,4, Norris,McLaren Mercedes,57,42:06.3,25,Au
+1,4, Norris,McLaren Mercedes,57,0.029239583,25,Au
 2,1, Verstappen,Red Bull Racing Honda RBPT,57,+0.895s,18,Au
 3,63, Russell,Mercedes,57,+8.481s,15,Au
 4,12, Antonelli,Mercedes,57,+10.135s,12,Au
@@ -19,7 +19,7 @@ NC,14, Alonso,Aston Martin Aramco Mercedes,32,DNF,0,Au
 NC,55, Sainz,Williams Mercedes,0,DNF,0,Au
 NC,7, Doohan,Alpine Renault,0,DNF,0,Au
 NC,6, Hadjar,Racing Bulls Honda RBPT,0,DNS,0,Au
-1,81, Piastri,McLaren Mercedes,56,30:55.0,25,China
+1,81, Piastri,McLaren Mercedes,56,0.021469907,25,China
 2,4, Norris,McLaren Mercedes,56,+9.748s,18,China
 3,63, Russell,Mercedes,56,+11.097s,15,China
 4,1, Verstappen,Red Bull Racing Honda RBPT,56,+16.656s,12,China
@@ -39,7 +39,7 @@ NC,14, Alonso,Aston Martin Aramco Mercedes,4,DNF,0,China
 DQ,16, Leclerc,Ferrari,,DSQ,0,China
 DQ,44, Hamilton,Ferrari,,DSQ,0,China
 DQ,10, Gasly,Alpine Renault,,DSQ,0,China
-1,1, Verstappen,Red Bull Racing Honda RBPT,53,22:07.0,25,Japan
+1,1, Verstappen,Red Bull Racing Honda RBPT,53,0.015358796,25,Japan
 2,4, Norris,McLaren Mercedes,53,+1.423s,18,Japan
 3,81, Piastri,McLaren Mercedes,53,+2.129s,15,Japan
 4,16, Leclerc,Ferrari,53,+16.097s,12,Japan
@@ -59,7 +59,7 @@ DQ,10, Gasly,Alpine Renault,,DSQ,0,China
 18,31, Ocon,Haas Ferrari,53,+83.438s,0,Japan
 19,5, Bortoleto,Kick Sauber Ferrari,53,+83.897s,0,Japan
 20,18, Stroll,Aston Martin Aramco Mercedes,52,+1 lap,0,Japan
-1,81, Piastri,McLaren Mercedes,57,35:39.4,25,Bahrain
+1,81, Piastri,McLaren Mercedes,57,0.024761574,25,Bahrain
 2,63, Russell,Mercedes,57,+15.499s,18,Bahrain
 3,4, Norris,McLaren Mercedes,57,+16.273s,15,Bahrain
 4,16, Leclerc,Ferrari,57,+19.679s,12,Bahrain
@@ -79,7 +79,7 @@ DQ,10, Gasly,Alpine Renault,,DSQ,0,China
 18,5, Bortoleto,Kick Sauber Ferrari,57,+66.872s,0,Bahrain
 NC,55, Sainz,Williams Mercedes,45,DNF,0,Bahrain
 DQ,27, Hulkenberg,Kick Sauber Ferrari,,DSQ,0,Bahrain
-1,81, Piastri,McLaren Mercedes,50,21:06.8,25,Saudi
+1,81, Piastri,McLaren Mercedes,50,0.014662037,25,Saudi
 2,1, Verstappen,Red Bull Racing Honda RBPT,50,+2.843s,18,Saudi
 3,16, Leclerc,Ferrari,50,+8.104s,15,Saudi
 4,4, Norris,McLaren Mercedes,50,+9.196s,12,Saudi
@@ -99,7 +99,7 @@ DQ,27, Hulkenberg,Kick Sauber Ferrari,,DSQ,0,Bahrain
 18,5, Bortoleto,Kick Sauber Ferrari,49,+1 lap,0,Saudi
 NC,22, Tsunoda,Red Bull Racing Honda RBPT,1,DNF,0,Saudi
 NC,10, Gasly,Alpine Renault,0,DNF,0,Saudi
-1,81, Piastri,McLaren Mercedes,57,28:51.6,25,Miami
+1,81, Piastri,McLaren Mercedes,57,0.020041667,25,Miami
 2,4, Norris,McLaren Mercedes,57,+4.630s,18,Miami
 3,63, Russell,Mercedes,57,+37.644s,15,Miami
 4,1, Verstappen,Red Bull Racing Honda RBPT,57,+39.956s,12,Miami
@@ -119,7 +119,7 @@ NC,30, Lawson,Racing Bulls Honda RBPT,36,DNF,0,Miami
 NC,5, Bortoleto,Kick Sauber Ferrari,30,DNF,0,Miami
 NC,87, Bearman,Haas Ferrari,27,DNF,0,Miami
 NC,7, Doohan,Alpine Renault,0,DNF,0,Miami
-1,1,Max Verstappen,Red Bull Racing Honda RBPT,63,31:33.2,25,Emilia
+1,1,Max Verstappen,Red Bull Racing Honda RBPT,63,0.021912037,25,Emilia
 2,4,Lando Norris,McLaren Mercedes,63,+6.109s,18,Emilia
 3,81,Oscar Piastri,McLaren Mercedes,63,+12.956s,15,Emilia
 4,44,Lewis Hamilton,Ferrari,63,+14.356s,12,Emilia
@@ -139,3 +139,23 @@ NC,7, Doohan,Alpine Renault,0,DNF,0,Miami
 18,5,Gabriel Bortoleto,Kick Sauber Ferrari,63,+38.572s,0,Emilia
 NC,12,Kimi Antonelli,Mercedes,44,DNF,0,Emilia
 NC,31,Esteban Ocon,Haas Ferrari,27,DNF,0,Emilia
+1,4, Norris,McLaren Mercedes,78,1:40:33.843,25,Monaco
+2,16, Leclerc,Ferrari,78,+3.131s,18,Monaco
+3,81, Piastri,McLaren Mercedes,78,+3.658s,15,Monaco
+4,1, Verstappen,Red Bull Racing Honda RBPT,78,+20.572s,12,Monaco
+5,44, Hamilton,Ferrari,78,+51.387s,10,Monaco
+6,6, Hadjar,Racing Bulls Honda RBPT,77,+1 lap,8,Monaco
+7,31, Ocon,Haas Ferrari,77,+1 lap,6,Monaco
+8,30, Lawson,Racing Bulls Honda RBPT,77,+1 lap,4,Monaco
+9,23, Albon,Williams Mercedes,76,+2 laps,2,Monaco
+10,55, Sainz,Williams Mercedes,76,+2 laps,1,Monaco
+11,63, Russell,Mercedes,76,+2 laps,0,Monaco
+12,87, Bearman,Haas Ferrari,76,+2 laps,0,Monaco
+13,43, Colapinto,Alpine Renault,76,+2 laps,0,Monaco
+14,5, Bortoleto,Kick Sauber Ferrari,76,+2 laps,0,Monaco
+15,18, Stroll,Aston Martin Aramco Mercedes,76,+2 laps,0,Monaco
+16,27, Hulkenberg,Kick Sauber Ferrari,76,+2 laps,0,Monaco
+17,22, Tsunoda,Red Bull Racing Honda RBPT,76,+2 laps,0,Monaco
+18,12, Antonelli,Mercedes,75,+3 laps,0,Monaco
+NC,14, Alonso,Aston Martin Aramco Mercedes,36,DNF,0,Monaco
+NC,10, Gasly,Alpine Renault,7,DNF,0,Monaco

@@ -20,8 +20,9 @@ def get_driver_qualifying(driver_name):
     return avg_q
 
 def get_race_position(qualifying_time, historical_performance, car_strength):
-    min_time = 1.30
-    max_time = 1.60  
+    print(qualifying_time)
+    min_time = 1.33
+    max_time = 1.45
     norm = (qualifying_time - min_time) / (max_time - min_time)
     predicted_position = int(1 + norm * 19)  
     consistency_factor = historical_performance  
@@ -30,7 +31,7 @@ def get_race_position(qualifying_time, historical_performance, car_strength):
     return int(adjusted_position)
 
 driver_performance = {
-    'albon': {'historical_performance': 0.7, 'car_strength': 1.5},  
+    'albon': {'historical_performance': 0.6, 'car_strength': 1.5},  
     'sainz': {'historical_performance': 0.9, 'car_strength': 1.5}
 }
 
